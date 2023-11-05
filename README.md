@@ -30,7 +30,7 @@ Despite Buckeye being defunct since 2017, the Equation Group tools it used was e
 
 The researchers also indicate that another malware family known as Filensfer was used by Buckeye.
 
-“Over the past three years, Filensfer has been deployed against organizations in Luxembourg, Sweden, Italy, the UK, and the U.S. Targets included organizations in the telecoms, media, and manufacturing sectors. While Symantec has never observed the use of Filensfer alongside any known Buckeye tools, information shared privately by another vendor included evidence of Filensfer being used in conjunction with known Buckeye malware,” they told.
+***“Over the past three years, Filensfer has been deployed against organizations in Luxembourg, Sweden, Italy, the UK, and the U.S. Targets included organizations in the telecoms, media, and manufacturing sectors. While Symantec has never observed the use of Filensfer alongside any known Buckeye tools, information shared privately by another vendor included evidence of Filensfer being used in conjunction with known Buckeye malware,”*** they told.
 
 Following its closure, it is believed that Buckeye passed the repurposed tools to a different attack group.
  https://cyware.com/news/chinese-threat-actor-group-apt3-used-nsa-linked-tools-to-target-organizations-says-new-report-ab7ce6f1
