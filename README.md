@@ -4,9 +4,9 @@ APT3, also known as Gothic Panda, Pirpi, UPS Team, or Buckeye, has been found to
 
 Buckeye, which was known for carrying out spying operations on US systems, mainly abused zero-day vulnerabilities with the help of these tools.
 
-What were the tools?
+### What were the tools?
 
-In March 2016, Buckeye was known to be using a variant of DoublePulsar tool which was leaked by the Shadow Brokers in 2017. It was delivered to victims using a trojan known as ‘Bemstour’.
+In March 2016, Buckeye was known to be using a variant of DoublePulsar tool which was leaked by the Shadow Brokers in 2017. It was delivered to victims using a trojan known as ***‘Bemstour’***.
 Shadow Brokers exposed a number of exploit tools by Equation group in 2017, which included DoublePulsar, FuzzBunch, EternalBlue, EternalSynergy, and EternalRomance. Some of them were also allegedly used by Buckeye.
 Where were the tools used?
 
@@ -19,9 +19,9 @@ The Bemstour trojan is used to deliver a variant of the DoublePulsar backdoor. F
 
 Earlier versions of Bemstour trojan did not include the process of uninstalling DoublePulsar implant. This was added only in later versions.
 
-How did Buckeye get them?
+### How did Buckeye get them?
 
-The researchers suggest that the group might have closely followed Equation Group’s attacks before using their tools. “Based on the timing of the attacks and the features of the tools and how they are constructed, one possibility is that Buckeye may have engineered its own version of the tools from artifacts found in captured network traffic, possibly from observing an Equation Group attack,” they said in the blog.
+The researchers suggest that the group might have closely followed Equation Group’s attacks before using their tools. ***“Based on the timing of the attacks and the features of the tools and how they are constructed, one possibility is that Buckeye may have engineered its own version of the tools from artifacts found in captured network traffic, possibly from observing an Equation Group attack,”*** they said in the blog.
 
 They also hint other possibilities such as vulnerable Equation Group servers or the group’s members switching sides to leak tools.
 
